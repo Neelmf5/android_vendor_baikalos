@@ -13,10 +13,10 @@ PRODUCT_PACKAGES += \
 #endif
 
 # JamesDSP
-PRODUCT_PACKAGES += \
-    JamesDSPManager \
-    libjamesdsp \
-    libjamesDSPImpulseToolbox \
+#PRODUCT_PACKAGES += \
+#    JamesDSPManager \
+#    libjamesdsp \
+#    libjamesDSPImpulseToolbox \
 
 # Boot animation include
 ifneq ($(TARGET_SCREEN_WIDTH) $(TARGET_SCREEN_HEIGHT),$(space))
