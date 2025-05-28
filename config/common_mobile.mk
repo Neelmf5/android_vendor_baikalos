@@ -15,8 +15,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Apps
 PRODUCT_PACKAGES += \
     Backgrounds \
-    ExactCalculator \
-    Jelly
+    ExactCalculator
 
 # Charger
 PRODUCT_PACKAGES += \
